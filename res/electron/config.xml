@@ -1,0 +1,4 @@
+<platform name="electron">
+    <icon src="heart.png" />
+    <preference name="ElectronSettingsFilePath" value="settings.json" />
+</platform>
